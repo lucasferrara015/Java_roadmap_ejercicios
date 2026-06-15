@@ -43,13 +43,13 @@ Los operadores aritméticos permiten realizar cálculos básicos con variables n
 
  
 ---
-##   📌 Ejercicios en este módulo
+## 📌 Ejercicios en este módulo
+- **Ejercicio1.java** → Intercambio de valores con variable auxiliar.  
+- **Ejercicio2.java** → Calcular el promedio de tres números.  
+- **Ejercicio3.java** → Operadores aritméticos con entrada de usuario (Scanner).  
+- **Ejercicio4.java** → Conversiones (casting): convertir un `double` (15.87) a `int`.  
+   - Se pierde información porque los tipos enteros no almacenan decimales, por lo que el valor `15.87` se convierte en `15`.
 
-. Ejercicio1.java → Intercambio de valores con variable auxiliar.
-
-. Ejercicio2.java → Calcular el promedio de tres números.
-
-. Ejercicio3.java → Operadores aritméticos con entrada de usuario (Scanner).
 
 ---
 
