@@ -1,6 +1,6 @@
 // Ejercicio 3: Operadores aritméticos con entrada de usuario
 // Módulo: Tipos de datos y variables
-// Visto en: Curso TodoCodeAcademy + práctica personal
+// Visto en: práctica personal
 
 package tipos_datos_variables;
 
