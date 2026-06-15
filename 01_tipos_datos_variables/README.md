@@ -40,15 +40,8 @@ Los operadores aritméticos permiten realizar cálculos básicos con variables n
 
 - % → módulo (resto de la división)
   
-Ejemplo:
-```java
-int a = 10, b = 3;
-System.out.println("Suma: " + (a + b));       // 13
-System.out.println("Resta: " + (a - b));      // 7
-System.out.println("Multiplicación: " + (a * b)); // 30
-System.out.println("División entera: " + (a / b)); // 3
-System.out.println("Módulo: " + (a % b));     // 1
-´´´
+
+ 
 ---
 ##   📌 Ejercicios en este módulo
 
