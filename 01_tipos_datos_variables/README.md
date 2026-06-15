@@ -49,7 +49,7 @@ System.out.println("Multiplicación: " + (a * b)); // 30
 System.out.println("División entera: " + (a / b)); // 3
 System.out.println("Módulo: " + (a % b));     // 1
 ´´´
-
+---
 ##   📌 Ejercicios en este módulo
 
 . Ejercicio1.java → Intercambio de valores con variable auxiliar.
@@ -58,6 +58,7 @@ System.out.println("Módulo: " + (a % b));     // 1
 
 . Ejercicio3.java → Operadores aritméticos con entrada de usuario (Scanner).
 
+---
 
 ## 🎯 Objetivo del módulo
 - Comprender cómo se declaran y usan variables en Java.
