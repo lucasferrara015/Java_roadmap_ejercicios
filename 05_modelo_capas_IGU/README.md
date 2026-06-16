@@ -23,3 +23,20 @@ Cada archivo tiene un método `main()`. Compila y ejecuta por separado:
 ```bash
 javac ejercicio2-calculadora-basica/ui/CalculadoraUI.java
 java ejercicio2-calculadora-basica.ui.CalculadoraUI
+´´´
+
+## 🧠 Conceptos aplicados
+
+Separación de responsabilidades (capa lógica vs capa visual)
+
+Eventos de Swing (ActionListener)
+
+Manejo de excepciones
+
+Colecciones (ArrayList)
+
+JList, JTextField, JComboBox, JButton, JFrame
+
+## 📌 Autor
+
+Lucas Ferrara
