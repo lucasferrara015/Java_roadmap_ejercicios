@@ -1,7 +1,7 @@
 // Ejercicio 1: Vector de nombres de usuarios
 // Módulo: Arrays, Vectores y Matrices
 // Contexto: Banco - lista de clientes
-// Visto en: Curso TodoCodeAcademy + práctica personal
+// Práctica personal
 
 package arrays_vectores_matrices;
 
