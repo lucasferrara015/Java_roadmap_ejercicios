@@ -1,0 +1,10 @@
+*.class
+*.log
+.DS_Store
+build/
+dist/
+nbproject/
+*.iml
+.settings/
+.project
+.classpath
