@@ -20,9 +20,11 @@
 
 ## ▶️ Cómo ejecutar
 Cada archivo tiene un método `main()`. Compila y ejecuta por separado:
-```bash
+``bash
 javac ejercicio2-calculadora-basica/ui/CalculadoraUI.java
 java ejercicio2-calculadora-basica.ui.CalculadoraUI
+
+
 
 ## 🧠 Conceptos aplicados
 
@@ -36,6 +38,7 @@ Colecciones (ArrayList)
 
 JList, JTextField, JComboBox, JButton, JFrame
 
+---
 ## 📌 Autor
 
 Lucas Ferrara
